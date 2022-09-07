@@ -1,0 +1,21 @@
+.navflex{
+    display: flex;
+    background-color: blueviolet;
+    justify-content: space-between;
+    padding: 20px;
+   
+    font-weight: bold;
+    border-radius: 10px;
+}
+.rightFlex{
+   display: flex;
+   width: 180px;
+   justify-content: space-between;
+  
+   
+}
+.navlink{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
